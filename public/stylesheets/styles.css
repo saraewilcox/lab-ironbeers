@@ -1,7 +1,36 @@
-/*
+
 white: #f7f9f9;
 light-blue: #2081c3;
 dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
-*/
+  
+  .container {
+    margin: 50px;
+  }
+  
+  .container > .row > .img {
+    width: 200px;
+    margin: 20px;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  button {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    background-color: #2081c3;
+  }
+  
+  .tag{
+    color: #bfbfbf;
+    font-size: 16px;
+  }
+  
+  ul li {
+    margin: 5px;
+  }
